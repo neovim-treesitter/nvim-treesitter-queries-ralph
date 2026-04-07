@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/alephium/tree-sitter-ralph",
   "semver": false,
   "parser_version": "f6d81bf7a4599c77388035439cf5801cd461ff77",
   "location": null,
-  "lang": "ralph"
+  "lang": "ralph",
+  "url": "https://github.com/alephium/tree-sitter-ralph"
 }
